@@ -1,2 +1,5 @@
 gradio
 requests
+torch
+transformers
+langdetect
